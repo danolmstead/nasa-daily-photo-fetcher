@@ -1,3 +1,0 @@
-"""
-DOCSTRING here.
-"""
